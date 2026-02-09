@@ -1,18 +1,26 @@
-# VMware Setup
+# VMware Workstation Setup
 
-VMware Workstation was used as the hypervisor to host all virtual machines in this SOC home lab.
+VMware Workstation was used as the virtualization platform to build an isolated SOC home lab environment.
 
-## Configuration
-- Installed VMware Workstation on the host system
-- Created separate virtual machines for each role:
-  - Kali Linux (Attacker)
-  - Ubuntu Linux (Victim)
-  - Wazuh (SOC / SIEM)
+## Installation
+VMware Workstation was downloaded and installed from the official VMware website using default installation options.
 
-## Networking
-- Configured all VMs to use an isolated internal network
-- Ensured VMs can communicate with each other while remaining isolated from external networks
+## Virtual Machine Configuration
+Each virtual machine was configured with:
+- 2 vCPUs
+- 4 GB RAM (minimum)
+- 40 GB disk space
+(Adjusted based on host system capacity)
+
+## Networking Configuration
+- All virtual machines were connected using an isolated internal network
+- Network isolation ensures safe testing and prevents exposure to external systems
+- Enables controlled communication between attacker, victim, and SOC machines
+
+## Virtual Machines Created
+- Kali Linux – attacker simulation
+- Ubuntu Linux – monitored endpoint
+- Wazuh – SOC and SIEM platform
 
 ## Purpose
-Using a virtualized environment allows safe simulation of attacker activity and SOC analysis without impacting real-world systems.
-
+Using VMware allows rapid creation, isolation, and snapshotting of virtual machines, which is essential for security testing and SOC analysis.
