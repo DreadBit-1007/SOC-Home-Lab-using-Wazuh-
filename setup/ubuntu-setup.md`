@@ -1,0 +1,16 @@
+# Ubuntu Victim Setup
+
+Ubuntu Linux acts as the monitored endpoint in this SOC lab.
+
+## Configuration
+- Installed Ubuntu Linux as a virtual machine
+- Enabled system and authentication logging
+- Configured services to generate realistic log data
+
+## Logging
+- System logs
+- Authentication logs
+- Network-related logs
+
+## Purpose
+The Ubuntu machine is used to observe how normal and suspicious activities appear in logs when monitored by a SIEM.
