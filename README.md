@@ -70,14 +70,11 @@ This project helped build a strong foundation in SOC concepts, including endpoin
 
 ## Screenshots
 
-### Wazuh Dashboard Overview
-![Wazuh Dashboard](https://github.com/DreadBit-1007/SOC-Home-Lab-using-Wazuh-/blob/594ef5894cae2b5237ff315fd3560c9adf91f263/Wazuh%20Overview.jpeg)
+Wazuh Dashboard Overview
 
-### Agent Status
-![Wazuh Agent Status](https://github.com/DreadBit-1007/SOC-Home-Lab-using-Wazuh-/blob/594ef5894cae2b5237ff315fd3560c9adf91f263/Wazuh%20Agent%20Status.jpeg)
+Agent Status
 
-### Alert Details View
-![Wazuh Alert Details](https://github.com/DreadBit-1007/SOC-Home-Lab-using-Wazuh-/blob/594ef5894cae2b5237ff315fd3560c9adf91f263/Alert%20Details%20view.jpeg)
+Alert Details View
 
 ---
 
