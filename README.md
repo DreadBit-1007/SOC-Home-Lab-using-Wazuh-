@@ -68,6 +68,19 @@ This project helped build a strong foundation in SOC concepts, including endpoin
 
 ---
 
+## Screenshots
+
+### Wazuh Dashboard Overview
+![Wazuh Dashboard](https://github.com/DreadBit-1007/SOC-Home-Lab-using-Wazuh-/blob/594ef5894cae2b5237ff315fd3560c9adf91f263/Wazuh%20Overview.jpeg)
+
+### Agent Status
+![Wazuh Agent Status](https://github.com/DreadBit-1007/SOC-Home-Lab-using-Wazuh-/blob/594ef5894cae2b5237ff315fd3560c9adf91f263/Wazuh%20Agent%20Status.jpeg)
+
+### Alert Details View
+![Wazuh Alert Details](https://github.com/DreadBit-1007/SOC-Home-Lab-using-Wazuh-/blob/594ef5894cae2b5237ff315fd3560c9adf91f263/Alert%20Details%20view.jpeg)
+
+---
+
 ## ⚠️ Limitations & Future Work
 The lab represents a simplified SOC environment and can be expanded further to simulate enterprise-scale monitoring.
 
